@@ -5,6 +5,8 @@ The Super Store Sales Dashboard is a data analytics project built using Microsof
 
 The project focuses on transforming raw sales data into interactive visual insights using dashboards, KPIs, and slicers to support business decision-making.
 
+<img src="https://github.com/deepkhadke04/Super-Store-Sales-Dashboard/blob/b917cc0e0c94b43f2fe56bdf9ef551ce79877f13/Dashboard.png" width=600/>
+
 ## Objectives
 - Analyze overall sales performance
 - Identify top-performing regions and cities
@@ -38,7 +40,6 @@ The dashboard includes:
 - **Total Quantity Sold:** 25,123
 - **Average Sales per Transaction**
 
-  <img src="https://github.com/deepkhadke04/Super-Store-Sales-Dashboard/blob/b917cc0e0c94b43f2fe56bdf9ef551ce79877f13/Dashboard.png" width=600/>
 
 Visualizations included:
 - Ship Mode Sales Distribution
